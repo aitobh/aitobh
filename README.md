@@ -9,20 +9,22 @@
 -->
 
 
-### <img src="https://cdn.discordapp.com/attachments/967782236839628914/1245039449717604393/dummy.png?ex=66574cd8&is=6655fb58&hm=5a9239318301bed6ebbdf4ab36796cd938ba8153d482d0339feeed725acf8784&" width="30"> Who I am...
+### <img src="https://i.ibb.co/Rk9Qsy1s/6461-shrug.png" width="30"> Who I am...
 
 ```javascript
-const hecker = {
-  name: "A.",
+const aito = {
+  name: "Aïto.",
   pronouns: "he" | "him",
-  code: [Html, Css, Javascript, Python],
+  school: "La Joliverie - Nantes",
+  code: [Html, css, JavaScript, Python],
   projects: {
-                        ceo: "cipher-leaks.me", // Share forum, Game & Web hosting and Crypto Signals
-                        inventor: "cipher-trading.com", // Trading community ( -> Mooved to Cipher Leaks )
+                        ceo: "blueworld.fun", // A FiveM Rôle Play serer
                         developper: "sweatylife.club", // GMod Rôle Play
                       },
   console.log("have a nice day 🫡")
 }
 ```
 
-<h2 align="center"> Copyright © 2016 - 2024
+<img src="https://i.ibb.co/23s30SmR/Wallpaper.png">
+
+<h2 align="center"> Copyright © 2016 - 2025
