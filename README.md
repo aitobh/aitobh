@@ -16,7 +16,7 @@ const aito = {
   name: "Aïto.",
   pronouns: "he" | "him",
   school: "La Joliverie - Nantes",
-  code: [Html, css, JavaScript, Python],
+  code: [Html, css, JavaScript, Python, SQL, Php],
   projects: {
                         ceo: "blueworld.fun", // A FiveM Rôle Play serer
                         developper: "sweatylife.club", // GMod Rôle Play
@@ -25,6 +25,6 @@ const aito = {
 }
 ```
 
-<img src="https://i.ibb.co/23s30SmR/Wallpaper.png">
+<img src="https://github.com/aitobh/aitobh/blob/main/Wallpaper.png?raw=true">
 
-<h2 align="center"> Copyright © 2016 - 2025
+<h2 align="center"> Copyright © 2016 - 2026
