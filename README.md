@@ -10,7 +10,7 @@ What are you searching ?
 
 - 📍 Based in **Nantes, France**
 - 🏢 Working at **La Joliverie**
-- 🌐 [Website](aitobh.xyz)
+- 🌐 [Website](https://aitobh.xyz)
 - 👥 **2** followers · **1** following
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -23,7 +23,7 @@ What are you searching ?
 ## Let’s connect
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=aitobh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48843742%3Fu%3Dc7dde147334fee787a6aeba4d0ad4064a3cca28c%26v%3D4" alt="aitobh social visual" />
+  <img href="https://github.com/aitobh" src="https://www.gitskins.com/api/section/social?username=aitobh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48843742%3Fu%3Dc7dde147334fee787a6aeba4d0ad4064a3cca28c%26v%3D4" alt="aitobh social visual" />
 </p>
 
 <p align="center">
